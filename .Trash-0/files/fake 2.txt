@@ -1,0 +1,480 @@
+product/productId: B00004WINT
+ product/title: Jabra EarGels - Clear
+ product/price: 9.70
+ review/userId: A1HAB45IL01M9J
+ review/profileName: B. Anthony Delgrasso
+ review/helpfulness: 0/0
+ review/score: 1.0
+ review/time: 1327536000
+ review/summary: useless
+ review/text: For some reason the makers of this item thought it would be wise to make each size ear piece fit a different bluetooth. The small fits my Jawbone, but does not fit my ear. The large fits my ear just fine, but does not fit my Jawbone. Save your money and find a different product.
+product/productId: B000JYC8GG
+ product/title: VG936: 9" Long Windshield Mount for Sony PSP
+ product/price: unknown
+ review/userId: A2R84J41TOB0X7
+ review/profileName: William Omar Moran
+ review/helpfulness: 1/1
+ review/score: 1.0
+ review/time: 1227398400
+ review/summary: Broken
+ review/text: There were somo pieces broken and for sure people who buy this windshield mount is going to put in the windshield of their car, so I can't plug a radio freq. thing to it because this mount it's blocking the jack input. Not a good product at all.
+product/productId: B000NJGDUY
+ product/title: Plantronics Discovery 655 Bluetooth Headset
+ product/price: unknown
+ review/userId: AD7UTINWWSRGX
+ review/profileName: Pradyot Srivastava "Prady"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1210896000
+ review/summary: Very good product
+ review/text: No problem watsoever. Works fine. I had bought this as my BT device was shipped to me with wrong charger. I have no problem with this product.
+product/productId: B0002DFW2Q
+ product/title: LG C1300i Phone (AT&T)
+ product/price: unknown
+ review/userId: A3F5VOHFJCVOVB
+ review/profileName: Jamie, Philly
+ review/helpfulness: 5/5
+ review/score: 4.0
+ review/time: 1106611200
+ review/summary: A Cell Phone is a Cell Phone
+ review/text: The LG is a great cell phone. I agree with the previous reviewer, if you want a camera, buy one. The phone is small, easy to use, and has all of the necessary features you need. I also bought the accessory kit from Amazon, and everything works great.Bottom line: Great Price (free), great reception, small, easy to use.
+product/productId: B00095MRV6
+ product/title: Sony Ericsson DSS-25 Desk Stand
+ product/price: unknown
+ review/userId: A1U6175SAO9162
+ review/profileName: A. Duluc
+ review/helpfulness: 2/2
+ review/score: 3.0
+ review/time: 1178928000
+ review/summary: Good, but...
+ review/text: It does exactly what it says. you can browse and save your phone files (pictures, recorded sounds, Bluetooth acquired files) to your PC. You can also update the firmware with "Sony Ericsson Update Service". It can charge your phone but you need a charger connected to the dock for this.Now the bad part, it broke after just weeks of use and I didn't treat it harshly. It's just not working anymore and there's no sign of broken parts. Good while it lasted is all I can say. As with all electric devices, you can have better luck.
+product/productId: B000302MKI
+ product/title: Replacement Lithium-ion Battery for Motorola V323/V325
+ product/price: unknown
+ review/userId: A3U7YH3VIHAUEA
+ review/profileName: ridgerunner
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1292284800
+ review/summary: Great product.
+ review/text: Great product for a great price which delivered great power to my phone. Never had a problem as long as I owned this phone (2 1/2 years).
+
+ product/productId: B000246XQE
+ product/title: Jabra FreeSpeak BT250 Bluetooth Headset
+ product/price: unknown
+ review/userId: A1CYTBE7LLUQ8F
+ review/profileName: Living in Budapest "livinginhungary"
+ review/helpfulness: 5/5
+ review/score: 4.0
+ review/time: 1092614400
+ review/summary: Great Addition to my Bluetooth Phone
+product/productId: B0000AKAMD
+ product/title: Sony Ericsson CST-13 Travel Charger for Sony Ericsson Phones
+ product/price: 4.43
+ review/userId: A3Q14BF5VXVW3S
+ review/profileName: Christie M. Daniel
+ review/helpfulness: 0/0
+ review/score: 4.0
+ review/time: 1192579200
+ review/summary: Fine product
+ review/text: The phone charger works great. I am pleased with the item. The only thing that would have made it better is is the electrical plug folded making the item easier to transport during travel.
+review/userId: AZTYYREBZLHUY
+ review/profileName: Melody Smith
+ review/helpfulness: 0/0
+ review/score: 1.0
+ review/time: 1222300800
+ review/summary: Poor signal/daily charging
+ review/text: This is a great little phone EXCEPT for the fact that it drops calls left and right (it's not the service......my husband and friend have the same as I have with no problems) and you have to charge it constantly!
+ 
+ product/productId: B000O7RYSA
+ product/title: Sony Ericsson Z310a Pink Phone (Unlocked)
+product/productId: B000LZEBYK
+ product/title: MYBAT
+ product/price: unknown
+ review/userId: A3DC61JR3S5U1F
+ review/profileName: Chieh Cheng
+ review/helpfulness: 4/6
+ review/score: 5.0
+ review/time: 1177977600
+ review/summary: Also works with A900M
+ review/text: This cable also works with my Samsung A900M. It can charge the phone from the USB port as well.
+product/productId: B00004W6N5
+ product/title: Motorola Car Charger for Motorola Startac Phones
+ product/price: 6.99
+ review/userId: unknown
+ review/profileName: unknown
+ review/helpfulness: 12/14
+ review/score: 5.0
+ review/time: 987292800
+ review/summary: Excellent Charger for the Motorola Phone
+ review/text: If you have the Motorola L series phone or the V series phone, this charger is the right one for you! It is an excellent charger for the road. The charger prevents the battery from overheating, an excellent feature of this item! It also charges the battery in a short amount of time! It helps keep the battery conditioned, and allows you to use the phone while it is charging. This is an excellent charger and I highly recommend it!
+product/productId: B00004W6V0
+ product/title: Samsung Ear Bud for Samsung Phones
+ product/price: unknown
+ review/userId: AITR0VOKNH89Z
+ review/profileName: "nyamabla"
+ review/helpfulness: 2/2
+ review/score: 2.0
+ review/time: 981763200
+ review/summary: ear bud only problem
+ review/text: the setup is nice and the on off button on the mic is perfect. the only problem i have is the earbud. it just doesn't fit good.
+product/productId: B000SE9GRG
+ product/title: Ultra-Slim Screen Protector (15pcs) for Blackberry Curve 8300
+ product/price: 1.18
+ review/userId: A1XIQL7OBK77K5
+ review/profileName: Chris "Chris"
+ review/helpfulness: 0/1
+ review/score: 1.0
+ review/time: 1210291200
+ review/summary: Item shipped was not the item ordered
+ review/text: The item I receved was not the item I ordered. The covers shipped only cover the lower portion of the screen. The item pictured covers the whole screen.Very disappointing...Chris
+product/productId: B000E43GOO
+ product/title: Monster RadioPlay 300 Universal Full Spectrum FM Transmitter MBL-FM XMTR300
+ product/price: 25.46
+ review/userId: AS9G69W3VP7LB
+ review/profileName: Michael Moncil
+ review/helpfulness: 1/1
+ review/score: 5.0
+ review/time: 1213056000
+ review/summary: As far as FM Transmitters go, this one is best
+ review/text: Buying an FM Transmitter can be a crap shoot because each one may work differently in each area and each vehicle. This one worked perfectly in my 04 Mustang on Frequency 88.7, but when I tried to use the same frequency in an 08 Silverado, it was very static-y. But I just changed the frequency to 88.3 and it worked perfectly again. I really like this product, especially because I had the Griffin iTrip before and that thing sucked on all levels. The only problem I have with this product is that it does not charge th iPod like others do, but I can deal with that.
+product/productId: B000E43GOO
+ product/title: Monster RadioPlay 300 Universal Full Spectrum FM Transmitter MBL-FM XMTR300
+ product/price: 25.46
+ review/userId: AZ09366BMKLFW
+ review/profileName: big_mike
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1290988800
+ review/summary: Monster is the best
+ review/text: I have had two "monster" transmitters and have been very pleased with the sound quality and ability to find clear stations. The only reason I've had two is because my first one got stolen! Monster is known for it's high performance cables and they really put that competency to use in this product.
+product/productId: B000E43GOO
+ product/title: Monster RadioPlay 300 Universal Full Spectrum FM Transmitter MBL-FM XMTR300
+ product/price: 25.46
+ review/userId: unknown
+ review/profileName: unknown
+ review/helpfulness: 1/1
+ review/score: 4.0
+ review/time: 1285718400
+ review/summary: Wish it charged while in use
+ review/text: We love this product. The big complaint is that it does not charge while it is plugged into the car.
+review/userId: AALWE4ADSPNM4
+ review/profileName: K. Springs
+ review/helpfulness: 2/2
+ review/score: 5.0
+ review/time: 1186358400
+ review/summary: Nice charger
+ review/text: Nice AC charger that cycles the battery back in a couple of hours. Now if they made a 12 v. DC one for my car I would be very happy.
+ 
+ product/productId: B000JIK92C
+ product/title: Sony Ericsson Two Port Standard Charger for Sony Ericsson C702a, C902, C905a, K850i, TM506, W350a, W380a, W508a, W580i, W595a, W705a, W760a, W995a, Z310a
+
+ product/productId: B000PS15CE
+ product/title: I880 PLUM EXTENDED BATTERY DOOR
+ product/price: unknown
+ review/userId: A1JXHH2OEWX493
+ review/profileName: Armand Gerardi "Mondo"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1301356800
+ review/summary: Great addition to a great phone
+product/productId: B000HBMP82
+ product/title: Plantronics Explorer 330 Bluetooth Headset
+ product/price: 33.99
+ review/userId: A1KZOQ4L49XRHO
+ review/profileName: Pooh Bear
+ review/helpfulness: 0/0
+ review/score: 4.0
+ review/time: 1225411200
+ review/summary: Worth it
+ review/text: Fits good in my ear, easy to use, good sound quality and at a good price. I have been very pleased with it.
+review/score: 5.0
+ review/time: 1076889600
+ review/summary: PERFECT FEATURES FOR A CELL PHONE
+ review/text: Thought:This phone comes with great features!! Unlike other phones, the T610 comes with features you wouldnt able to do with other phones. It also comes with infrared which you can hook up to other phones w/infrared or computer; with this feature you can send and recieve ringtones and pictures without being charged!Functions just like any other phone but more!The phone loads the menus very fast! faster then the Sony Ericsson T226 and other younger versions...The only problems is:Camera quality - yes, it does have poor camera quality, eventho the pictures you get from your computer or ordered are crystal clear, the camera is not clear. (strange how it supports over 63000 color but the camera is still weak)Voice Speaker - well this is not important to some people, i thought this cell phone has it all.Sound Recorder - it does what it does, but not high quality. When the recorded sound is played it is not loud enough. you got hold it up in your ear to hear some of it...Ringer - ok, im not sure about this but it seems like when i get a call, the ringtones doent play loud enough. My sisters phone (Samsung & NOKIA) ringers are very loud compare to the t610.Note- There are times when the phone malfunctions, im not sure if its t-mobiles technical difficulties or the phone itself. USUALLY its because of T-MOBILEs problems. if there problems with your T610 then just TURN it OFF and back ON. There so much features on this phone, you just wanna do everything at the sametime....Accessories:-the MP-10, this is the flasher for the t610. This flasher comes many features.-the Faceplates, change your look on the phone, it will look great.-the IrDA, the USB to infrared device for your computer, send and recieve pics,ringtones,games, and other information without being charged!!!! the 1# thing i love most!these are worth buying! BUY IT nOW!!!!OVERRALL: BEST Phone! some of my friends are buying this phone cause of its features and me showing it off hahhahhah!
+ 
+ product/productId: B0000AGRYX
+ product/title: Sony Ericsson T610 Phone (T-Mobile)
+ product/price: unknown
+ review/userId: A64BNKIY8BE7B
+ review/profileName: Island Girl
+product/productId: B0000AGRYX
+ product/title: Sony Ericsson T610 Phone (T-Mobile)
+ product/price: unknown
+ review/userId: A190BDWHO0KRYE
+ review/profileName: V. Parigi "VPN"
+ review/helpfulness: 8/9
+ review/score: 1.0
+ review/time: 1103500800
+ review/summary: Lousy phone
+ review/text: I have had enough problems to last a lifetime I guess. I moved from Sprint PCS to T mobile (thinking that their Service was good). I think I was wrong in doing that.The Sprint service was working fine. My Sony Ericsson phone does not have any reception at all in my office & has a Lousy reception at home as well!!!!!!!!!!T Mobile sent me a replacement Phone & as well as the SIm card in the hope that their service would improve. Unfortunately (to my horror & utter dis-belief) the service is no better. The service is fine after I checked the SIm on my friend's phone which is a NOKIA. T Mobile refuses to replace the phone with the same features...I will have to shell a good amount of money as well....All in all SOny Ericsson T610 is not a good one. At best I can say that it is a good one by itself..but not for T Mobile I guess.
+product/productId: B0000AGRYX
+ product/title: Sony Ericsson T610 Phone (T-Mobile)
+ product/price: unknown
+ review/userId: A3RPVR1SZVY17X
+ review/profileName: C. Dikmen
+ review/helpfulness: 0/2
+ review/score: 5.0
+ review/time: 1104537600
+ review/summary: Great phone. LONG battery life.
+ review/text: I have used this phone over a year now. This is a great phone. The best part of this phone is that it has a GREAT battery life -- the longest I have used. The voice and reception is great. It is small. The bluetooth works well. No problems with the T-Mobile service. Camera is not that good but I use this as a phone and not as a camera.
+product/productId: B0000AGRYX
+ product/title: Sony Ericsson T610 Phone (T-Mobile)
+ product/price: unknown
+ review/userId: unknown
+ review/profileName: unknown
+ review/helpfulness: 2/4
+ review/score: 5.0
+ review/time: 1073606400
+ review/summary: Best Phone Yet
+ review/text: After using about a dozen cell phones in the past 5 years I have found a phone I love to use. I get great reception (but it may be from switching from ATT Wireless to TMobile) and love the color display. My only two negatives about the phone is the keypad is a little small for my fat fingers (you should see me type on a full -size keyboard!). The other downside is the address book is a little hard to navigate (but that might be a learning curve on my part). I would feel very comfortable recommending this phone to a friend.
+product/productId: B0000AGRYX
+ product/title: Sony Ericsson T610 Phone (T-Mobile)
+ product/price: unknown
+ review/userId: A3OQOX8C1CBM8J
+ review/profileName: A. Presson
+ review/helpfulness: 2/2
+ review/score: 4.0
+ review/time: 1114992000
+ review/summary: Sony Ericsson T610: great design, bad reception.
+ review/text: First of all, I've used Sony Ericsson T610 with both Cingular and T-Mobile service and found them comparable in Los Angeles (Verizon is best here). From comparing all three phones (Nokia 6230, Sony Ericsson T610, and Motorola V551) with Cingular service, I've discovered that there is a *BIG* difference in phone reception quality.Phone reception quality is as follows: Nokia 6230 > Motorola V551 >> Sony Ericsson T610. The Sony Ericsson T610 had no reception in my apartment, the Nokia 6230 has great reception everywhere.Overall phone quality: Nokia 6230 > Sony Ericsson T610 >> Motorola V551. (Though if reception is most important, you might rank Motorola V551 over SE T610.)Here are pros/cons of Sony Ericsson T610:PROS:-Bluetooth: easy to sync contacts, photos, etc. w/PC, no additional software required => great.-Great battery life-Great display resolution, better than Nokia 6230.-Nice OS design: easy to navigate, easy to read menus, ex. "silent" is handy-Small, sleek, cool-looking, phoneCONS:-Bad reception!-Phone freezes sometimes. If turning on/off doesn't fix, try removing (and then re-inserting :) battery.-Sometimes keylock doesn't work and phone calls contacts.I recommend this phone if you have a good service provider for your area. It is cheap and easy to use. (Though, be wary of service providers locking the bluetooth. This hasn't happened to anyone I know, but I've heard that it's been a problem.) If I had reception in my apartment, I would have kept the T610 and sold the new Nokia 6230 on ebay.
+product/productId: B0000AGRYX
+ product/title: Sony Ericsson T610 Phone (T-Mobile)
+ product/price: unknown
+ review/userId: unknown
+ review/profileName: unknown
+ review/helpfulness: 0/1
+ review/score: 5.0
+ review/time: 1076457600
+ review/summary: SonyEricssonIsChamp
+ review/text: This phone is very good and the reception problem posted by folks is not a phone problem but network problem. try comparing it with another devide and you will know the answer. I think there is 14 days to return in case it's not upto your liking !?
+product/productId: B000G6UE2W
+ product/title: Plantronics Voyager 510 Bluetooth Headset with USB Dock
+ product/price: unknown
+ review/userId: A3EJI4VN29JO3G
+ review/profileName: Zephadias "www.zephadias.com"
+ review/helpfulness: 5/5
+ review/score: 5.0
+ review/time: 1184976000
+ review/summary: Great item
+ review/text: I will have to admit, this is my first headset to own and use. I researched a lot to find a headset that would be comfortable on my ear and have quality audio on both sides of the conversation. The Voyager 510 has all of this. It is however larger than most, if not all of the bluetooth headsets out on the current market. So if you don't mind a little larger headset, this is a great buy. It has great battery life and has a large radius to reach your bluetooth device. It currently works seamlessly with both my computer and Razer cell phone. To keep it protected, I got an old Altoids metal box, padded the inside, and I keep my headset in there when I am mobile.
+product/productId: B000JYI46O
+ product/title: eForCity Car charger with USB cable Compatible with Motorola Phones
+ product/price: 3.59
+ review/userId: A1UYTL2O9QH78E
+ review/profileName: Need Value and Honesty
+ review/helpfulness: 0/0
+ review/score: 1.0
+ review/time: 1199059200
+ review/summary: Misleading
+ review/text: The USB cable is not authorized by Motorola. It will not charge your phone.
+product/productId: B000M92GLK
+ product/title: Plantronics Discovery 665 Bluetooth Headset
+ product/price: 49.00
+ review/userId: A1GS9ZK31JQ3H5
+ review/profileName: Patricia E. Suplicki
+ review/helpfulness: 0/0
+ review/score: 2.0
+ review/time: 1283126400
+ review/summary: Barely worth the goldbox price
+ review/text: I bought this on a gold box special for $17.99. And that's BARELY what it is worth. It is not like the wonderful description. I can't put my phone in my pocket or it doesn't work, constantly breaking up and muffled. The phone has to be fairly close(a foot or so) to the bluetooth or the voice breaks up. I am totally disappointed with it. I had previously owned two motorola bluetooth devices, and they were far superior to this. I lost the last one in a house fire and was trying to replace it. Poor choice. It is much larger and not as comfortable and stable as the old one. The regular price on this is about the same as I paid for the other(the motorola), and the quality is far below. I was going to return it, but there is no return choice that lists poor quality as a reason.
+product/productId: B000M92GLK
+ product/title: Plantronics Discovery 665 Bluetooth Headset
+ product/price: 49.00
+ review/userId: A2V87634F24N
+ review/profileName: Stefanos Kapetanou
+ review/helpfulness: 0/0
+ review/score: 4.0
+ review/time: 1203638400
+ review/summary: Nice but not all that
+ review/text: Nice ear piece. Clear and very comfortable and light on the ear. However, it has a problem with disconnecting the link to my Motorola Razr when its not in use.
+
+ product/productId: B00032IAWA
+ product/title: 
+ product/price: unknown
+ review/userId: A2LOYFNWJ4V54S
+ review/profileName: D. Barrack "RunningHappy"
+ review/helpfulness: 19/20
+ review/score: 5.0
+ review/time: 1117584000
+ review/summary: I have used most PDA phones. The 7100t is the BEST
+product/productId: B000E440YO
+ product/title: eForcity Clear Crystal Hard Case for Apple iPod Video 30GB / iPod Video U2 Special Edition / iPod Classic 80GB / iPod Classic 120GB
+ product/price: unknown
+ review/userId: AT0J23W93LLV
+ review/profileName: Quinna Rae Thompson "Quinna"
+ review/helpfulness: 2/2
+ review/score: 2.0
+ review/time: 1204329600
+ review/summary: Not Worth It!
+ review/text: I bought this case because it was cheap and it looked good, but it was a big mistake. The case is way to big leaving the iPod room to slide around, and it is VERY hard to open. There is alos a huge hinge on the bottom of the case which makes it look very unappealing. There is also no protection for the wheel.The only think that I can say in favor of this case is that it does do a fair job of protecting the ipod and the screen.
+product/productId: B000302NDY
+ product/title: Replacement Lithium-ion Battery for Siemens CF62/CF62T
+ product/price: 8.89
+ review/userId: A2GEX4DFY8MJ92
+ review/profileName: G. Bennett "GB"
+ review/helpfulness: 3/3
+ review/score: 5.0
+ review/time: 1176249600
+ review/summary: Good company.
+ review/text: Needed a replacement battery for a discontinued phone. The first battery I received did not work at all - after I contacted the company the immediately sent a new battery (this one works). From my experience, feel secure in purchasing from this company. :)
+product/productId: B00074V0JY
+ product/title: Motorola Lithium-Ion Battery BR50 / SNN5696 / SNN5777 / SNN5794A
+ product/price: 4.51
+ review/userId: A2DQ4QHTT7BBZ7
+ review/profileName: S. T. S. Prasad "STS"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1196380800
+ review/summary: Great price - battery works perfectly
+ review/text: Great way to continue using my Razr! Didn't have to throw away a good phone, and didn't have to spend $30 on a new battery.
+product/productId: B00074V0JY
+ product/title: Motorola Lithium-Ion Battery BR50 / SNN5696 / SNN5777 / SNN5794A
+ product/price: 4.51
+ review/userId: AZ2W5UH4QQPPU
+ review/profileName: K. Law
+ review/helpfulness: 12/12
+ review/score: 1.0
+ review/time: 1188864000
+ review/summary: Not a good buy...
+ review/text: The first few re-charges were excellent. One full-charge (over-night) lasted 3/4 days. However, after couple weeks, it needs to be re-charged every single day...not a good one. Suspect the other good reviews from people submitted the reviews too early.
+product/productId: B00074V0JY
+ product/title: Motorola Lithium-Ion Battery BR50 / SNN5696 / SNN5777 / SNN5794A
+ product/price: 4.51
+ review/userId: A13GXTHTOJC1AA
+ review/profileName: Tangerai
+ review/helpfulness: 0/2
+ review/score: 4.0
+ review/time: 1193529600
+ review/summary: I am pleased
+ review/text: I received my item in a very timely manner and it was in terrific condition. Works great and I am very satisfied.
+product/productId: B00004W77R
+ product/title: Nokia ACP-7U Factory Original Travel Chargers 3585i 6360 7250i and Others - Retail Packaging - Black
+ product/price: 4.95
+ review/userId: A2RFFYBEU7MZWM
+ review/profileName: Y. L. Loh
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1184198400
+ review/summary: Cheap charger
+ review/text: I got this after I destroyed my charger with a vacuum cleaner. It's $0.50, it does its job. Great. (Unfortunately, shipping was about $5.... :)
+review/userId: A3J35DTHB2TS80
+ review/profileName: Jeremy Louden
+ review/helpfulness: 1/1
+ review/score: 5.0
+ review/time: 1229904000
+ review/summary: Works great
+ review/text: I've had this for a few weeks and at least the ones I got seem to be durable enough, I don't have any problems with the adapter fitting my phone or headphones. There is no loss in sound quality that I can detect using 256k mp3s over $200 Klipsch headphones. For the price, they are pretty much perfect. (Yes there is no mic, but it doesn't say it comes with one, does it?) I'll probably get another one for the aux adapter in my car, so I can leave one with my headphones and one in the car.
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: A1EIROVQ5IY8IA
+ review/profileName: not hard to please
+ review/helpfulness: 0/0
+ review/score: 1.0
+ review/time: 1297382400
+ review/summary: public service announcement
+ review/text: I just want to let potential buyers of this product know that this adapter does not seat properly into my W760a phone. I bought three knowing they don't last long but they are so cheaply made they don't even work unless you hold them in place physically or with tape or a rubber band. I'm not a person to return a 2 dollar item but i am unsatisfied enough to write this message. even at two bucks these are a rip off. don't say I didn't warn you!
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: A27M3WWSFJC23W
+ review/profileName: SShanRK "Shan"
+ review/helpfulness: 0/0
+ review/score: 3.0
+ review/time: 1228867200
+ review/summary: Good but little costly
+ review/text: I bought it to use with my sony mobile phone. You can get this if you buy sony stereo hands free ear phones. so no need to buy seperately. It works great and really useful.
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: AZVE87P05IMZ
+ review/profileName: Josh Sumner "renmus78"
+ review/helpfulness: 2/2
+ review/score: 5.0
+ review/time: 1195862400
+ review/summary: Great for the car
+ review/text: I got this to connect my phone to my car stereo. It's much easier to have hanging around than the one that comes with the phone. No microphone, so calls won't work, but you're in the car, so why should they?
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: A7SKU6PSHPEFI
+ review/profileName: Erica
+ review/helpfulness: 0/0
+ review/score: 3.0
+ review/time: 1308009600
+ review/summary: Glitchy, bro.
+ review/text: The adaptor frequently comes loose and easily loses connection with my phone. Pretty annoying for someone who simply wants to enjoy some music.
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: A2DM90R0W0I6E7
+ review/profileName: Music Lover 80
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1241136000
+ review/summary: 100% Satisfied!
+ review/text: What you see is what you get: a slick little accessory for the Sony Ericsson phone (in my case the W600i) that does exactly what it says does and is worth every penny! Shipping was fast and the customer service was terrific. I ordered two of these, because I thought at this ridiculously low price there was a good chance they didn't work well (if at all)--I was wrong, they work GREAT! And as an added bonus, the company sent me 4 of them and only charged me for 2! Great company, great product...I definitely recommend them.
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: A2CL6VABPYA6JO
+ review/profileName: some guy
+ review/helpfulness: 2/3
+ review/score: 5.0
+ review/time: 1207353600
+ review/summary: works great
+ review/text: it does what its supposed to allows you to plug a standard 3.5mm headphone jack to your phone. quality seems decent.
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: A17UPL2CEI2ZH3
+ review/profileName: T. Osborn "T.O."
+ review/helpfulness: 0/0
+ review/score: 3.0
+ review/time: 1276128000
+ review/summary: Works well, but doesn't last long.
+ review/text: This device is dirt cheap, which makes it worth buying because you can get several of them. You'll need them too, because they don't last very long. I've gone through about 4 of them over the last 2 years so you should expect about 6 months out of it. The sound quality is good and there doesn't seem to be any interference while it's still in good condition, but when it starts to short you might hear static or lose a channel of audio. The plastic clips sometimes break and the wire shorts out after a while. Still, for the price, they're a good buy.
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: A1PVE0L6MIQEZ9
+ review/profileName: M. McDowell "Abcdefg"
+ review/helpfulness: 0/1
+ review/score: 3.0
+ review/time: 1249171200
+ review/summary: Magic!
+ review/text: This oblect that I bought is so totally magic. It makes me phone able to use the FM radio feature by having a hidden antena in it. Not only that, but it can mysticly attach to the wire in my car and play music. A wizard had to have made this.
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+ product/price: 2.40
+ review/userId: A2N70YHT68IKTX
+ review/profileName: Jeremy Johnson
+ review/helpfulness: 1/3
+ review/score: 1.0
+ review/time: 1204243200
+ review/summary: Worthless piece of equipment
+ review/text: The company did not even send instructions for use...nothing. The only thing I recieved was the speaker adapter and antenna booster in a plastic baggie. I would send it back, but it would cost more in shipping than I paid for the adapter. I strongly discourage purchasing equipment from this company.
+review/userId: AHD3NZHDUZ5I6
+ review/profileName: bdgilfry@wildchildpublishing.com "Editor"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1247356800
+ review/summary: Works very well
+ review/text: This allows me to hook up some good headphones for iPOD-quality music, or to make phone calls in loud places. It is made of sturdy materials. Also, the service was quick and the price was right.
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson
+review/userId: AVKXRB4ZW1402
+ review/profileName: Eric Way "Lyonlauric"
+ review/helpfulness: 4/4
+ review/score: 1.0
+ review/time: 1211414400
+ review/summary: Worked great for 3 days
+ review/text: Received the product on time. However the plastic clips wore out after just a few days and the connector won't stay cliped into the phone now. Very disappointed. Would not recommend product
+ 
+ product/productId: B000J6FWTO
+ product/title: Eforcity 3.5mm Stereo Headset Speaker Adaptor for Sony Ericsson

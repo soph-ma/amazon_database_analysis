@@ -1,0 +1,490 @@
+review/score: 1.0
+ review/time: 1227571200
+ review/summary: POOR
+ review/text: GOT THIS PRODUCT TO USE WITH A BLUETOOTH. NO INSTUCTIONS ON HOW TO FIT OR USE IT.SIZES DIDNT FIT MY EAR.
+ 
+ product/productId: B00004WINT
+ product/title: Jabra EarGels - Clear
+ product/price: 9.70
+ review/userId: A30SURYP3P86KC
+ review/profileName: H.R. "Very Picky Person"
+
+ product/productId: B00004WINT
+ product/title: Jabra EarGels - Clear
+ product/price: 9.70
+ review/userId: A1PJE3DLGBJ7OT
+ review/profileName: Dylan
+ review/helpfulness: 1/1
+ review/score: 5.0
+ review/time: 1307145600
+ review/summary: Great addition to any jawbone
+product/productId: B00004WINT
+ product/title: Jabra EarGels - Clear
+ product/price: 9.70
+ review/userId: A1HAB45IL01M9J
+ review/profileName: B. Anthony Delgrasso
+ review/helpfulness: 0/0
+ review/score: 1.0
+ review/time: 1327536000
+ review/summary: useless
+ review/text: For some reason the makers of this item thought it would be wise to make each size ear piece fit a different bluetooth. The small fits my Jawbone, but does not fit my ear. The large fits my ear just fine, but does not fit my Jawbone. Save your money and find a different product.
+
+ product/productId: B00004WINT
+ product/title: Jabra EarGels - Clear
+ product/price: 9.70
+ review/userId: A3LVCUSFTC4CHD
+ review/profileName: Brick Wall
+ review/helpfulness: 2/2
+ review/score: 4.0
+ review/time: 1216339200
+ review/summary: Good solution for people with weird shaped ears.
+product/productId: B0006J27C4
+ product/title: Motorola Razr V3, V3i, V3c, Slvr L7, L6, L2 Pebl U6, V190, Mpx200, V360, V323, V325 - Ch710 OEM Original Auto Car Charger Syn0847
+ product/price: 8.16
+ review/userId: AQKBNO5UBUTLA
+ review/profileName: beach bum
+ review/helpfulness: 0/0
+ review/score: 4.0
+ review/time: 1219968000
+ review/summary: Good value
+ review/text: This product was delivered by provider on time and the quality is better the original I bought directly from my cell phone provider and way cheaper! The only down side is that the cord is short so it is difficult to talk on the phone while it's charging (unless you are hands free).
+product/productId: B0006J27C4
+ product/title: Motorola Razr V3, V3i, V3c, Slvr L7, L6, L2 Pebl U6, V190, Mpx200, V360, V323, V325 - Ch710 OEM Original Auto Car Charger Syn0847
+ product/price: 8.16
+ review/userId: AQH3EL8N4KY3V
+ review/profileName: Duane Schaub "Willie"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1197417600
+ review/summary: Battery Car Charger
+ review/text: The car charger that you I ordered works great. I am sorry that I did not try your web site earlyer. Thank You.
+
+ product/productId: B0006J27C4
+ product/title: Motorola Razr V3, V3i, V3c, Slvr L7, L6, L2 Pebl U6, V190, Mpx200, V360, V323, V325 - Ch710 OEM Original Auto Car Charger Syn0847
+ product/price: 8.16
+ review/userId: AVM1ZNQGXOGG0
+ review/profileName: betsyn
+ review/helpfulness: 0/0
+ review/score: 2.0
+ review/time: 1331510400
+ review/summary: Not so good
+
+ product/productId: B000O9W4S8
+ product/title: Samsung AEP420SBEB/STD OEM Original Stereo Earbud Handsfree Headset For SGH-T809 SGH-T509 SGH-D807 SGH-D800 SGH-D820 SGH-D900 SGH-T629 SGH-T519 SGH-A707 SYNC BLACKJACK SGH-i607 SGH-T329 STRIPE SGH-T219[RETAIL PACKAGED]
+ product/price: 4.35
+ review/userId: A1T0DOT9AR8BE0
+ review/profileName: Rishikesh Kulkarni
+ review/helpfulness: 3/3
+ review/score: 3.0
+ review/time: 1182038400
+ review/summary: Good sound quality, but earbuds are a bit large!
+
+ product/productId: B000F1UQWQ
+ product/title: Nextlink AX2 Blue Spoon Bluetooth Headset [Retail Packaged]
+ product/price: unknown
+ review/userId: A22HRKN3HXZFW2
+ review/profileName: F. Cabeza
+ review/helpfulness: 0/0
+ review/score: 4.0
+ review/time: 1168300800
+ review/summary: Great little headset
+product/productId: B000JYC8GG
+ product/title: VG936: 9" Long Windshield Mount for Sony PSP
+ product/price: unknown
+ review/userId: A2R84J41TOB0X7
+ review/profileName: William Omar Moran
+ review/helpfulness: 1/1
+ review/score: 1.0
+ review/time: 1227398400
+ review/summary: Broken
+ review/text: There were somo pieces broken and for sure people who buy this windshield mount is going to put in the windshield of their car, so I can't plug a radio freq. thing to it because this mount it's blocking the jack input. Not a good product at all.
+
+ product/productId: B000JYC8GG
+ product/title: VG936: 9" Long Windshield Mount for Sony PSP
+ product/price: unknown
+ review/userId: A3KGTT77163JB3
+ review/profileName: S. Mesa "S. Mesa"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1239062400
+ review/summary: Excelent product, great deal!
+product/productId: B000NJGDUY
+ product/title: Plantronics Discovery 655 Bluetooth Headset
+ product/price: unknown
+ review/userId: AD7UTINWWSRGX
+ review/profileName: Pradyot Srivastava "Prady"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1210896000
+ review/summary: Very good product
+ review/text: No problem watsoever. Works fine. I had bought this as my BT device was shipped to me with wrong charger. I have no problem with this product.
+
+ product/productId: B000FPGZTA
+ product/title: Motorola V710, A840, E815 Ultra Capacity Extended Lithium-ion Battery (1400mah) with Battery Cover
+ product/price: 28.99
+ review/userId: A2YZ6OBFENBXUY
+ review/profileName: SCS2 "SCS2"
+ review/helpfulness: 3/3
+ review/score: 5.0
+ review/time: 1204588800
+ review/summary: Extended life cell phone battery
+review/userId: A1TIJD8ZHRTAQD
+ review/profileName: Tracie Esco "traciedar63"
+ review/helpfulness: 1/2
+ review/score: 1.0
+ review/time: 1138924800
+ review/summary: STAY AWAY
+ review/text: I would not even give this phone to my 4 year old. My daughter was recently hospitalized out of town, and for convenience sake I had to use my cell phone instead of long distance. I moved around, went outside (under a clear sky) and had absolutly horrible reception. The entire time you are on the phone with someone, you expect them to disappear, because his phone is terrible. Pick something else.
+ 
+ product/productId: B0002DFW2Q
+ product/title: LG C1300i Phone (AT&T)
+review/userId: A1R6NSN4BJ8H4Q
+ review/profileName: David "davidslv"
+ review/helpfulness: 30/30
+ review/score: 4.0
+ review/time: 1089158400
+ review/summary: Small and elegant, but with a few issues
+ review/text: This is a simple to use, small, light and generally elegant flip phone, with good reception.Some useful comments for those interested in getting it:-It looks nice and has a fast and responsive user interface (I found the LG interface much better than the Samsung x426). It is easy to move from menu to menu by pressing the shown number (or scroll around and press select if you want).-Some useful functions are hidden away under three menu levels (ie Calculator, Alarm, Calendar). There is no way to assign a shortcut. There are built-in shortcuts to internet, text messaging, contacts, instant messaging.-It is easy to put the phone to vibrate, even without opening it.-The light on the outside lights red if there is a waiting message (voice or text) but not when you have missed calls.-You cannot use most of the phone's functions when talking on the phone. (ie you cannot play games if you have a headset and are having a boring conversation.) But you can take a 'note' and later save it as a phone number.-The phone can only &quot;ring and vibrate&quot; at the highest volume.-The volume control for the games is tied to the volume of the ringer. So if you lower the volume while playing and forget to increase it afterward, the ringer will be quiet. Also, if the phone is set to loudest ring, some menu confirmation will elicit a loud sound from the phone (ie entering a new contact.) This is annoying.
+ 
+ product/productId: B0002DFW2Q
+ product/title: LG C1300i Phone (AT&T)
+product/productId: B0002DFW2Q
+ product/title: LG C1300i Phone (AT&T)
+ product/price: unknown
+ review/userId: A3F5VOHFJCVOVB
+ review/profileName: Jamie, Philly
+ review/helpfulness: 5/5
+ review/score: 4.0
+ review/time: 1106611200
+ review/summary: A Cell Phone is a Cell Phone
+ review/text: The LG is a great cell phone. I agree with the previous reviewer, if you want a camera, buy one. The phone is small, easy to use, and has all of the necessary features you need. I also bought the accessory kit from Amazon, and everything works great.Bottom line: Great Price (free), great reception, small, easy to use.
+review/userId: unknown
+ review/profileName: unknown
+ review/helpfulness: 1/3
+ review/score: 1.0
+ review/time: 1131667200
+ review/summary: BEWARE
+ review/text: I have had this phone for about 5 months now and its had problems since the beginning within one day of having it the hindges started to sqeak on and off. About a month ago i could make absoutly no calls because their was a signal problem. and just a couple of days ago my volume got screwed up and now it can't go past level 3, which is VERY hard to hear. Another thing about this phone is the ringer it cannot be turned off ascending so you cant hear the ringtone untill about 20sec later. DO NOT BUY THIS PHONE
+ 
+ product/productId: B0002DFW2Q
+ product/title: LG C1300i Phone (AT&T)
+review/userId: A15BR56F6PQCHV
+ review/profileName: Lazy Choola
+ review/helpfulness: 6/9
+ review/score: 5.0
+ review/time: 1091750400
+ review/summary: Great phone
+ review/text: This is my 5th phone and compared to the other phone that i had to keep replacing, this phone is great. the one i had before this phone was a sony ericcson t62u and it kept on stopping working so after i had 4 of them in 6 months i got fed up and decided i would go buy a new phone. so i liked this one. and everything works great on it, the battery life is great, the way the menu and the ease of use is great. and i love how the ringtones are real songs not just beeps. the only thing i don't like is like one guy said up there, my screen is a little squeky when i open it, but i dont really care. i recommend this phone to anyone
+ 
+ product/productId: B0002DFW2Q
+ product/title: LG C1300i Phone (AT&T)
+review/userId: unknown
+ review/profileName: unknown
+ review/helpfulness: 8/10
+ review/score: 5.0
+ review/time: 1091664000
+ review/summary: Great Phone
+ review/text: This is a great Phone! ITs my 3rd phone and i have had problems with 2 of the three. the first one was ugly, and the second one, the battery life was no good. But when i got this LG C1300, it rocked my world! The Battery Life is awesome and the features are real good. You can download ringtones without going online which is really cool and easy. It has a well lit screen and the volume of the ringtones are really loud. The hearing part is awesome, i put it on a volume 3, because when it was on a 5 its like a speaker phone. It only includes one game which is very similar to snake. The picture does not look the same, the big thing in the middle is really a mirror like thing and it flashes green, it does not stay solid. Overall it is a really good phone and i reccommend everyone to go and buy it!
+ 
+ product/productId: B0002DFW2Q
+ product/title: LG C1300i Phone (AT&T)
+review/userId: A1LRZR469AYM5
+ review/profileName: R. Gilliland
+ review/helpfulness: 3/8
+ review/score: 1.0
+ review/time: 1103241600
+ review/summary: There should be laws against this phone.
+ review/text: It's cute and light-weight. However, I've only had about 3 phone conversations that were not very choppy or down-right incoherent and dropped. We bought 3 of these for our family and they are almost always unusable. There is an echo in one of them. We have had 4 other phones, mostly Nokias, and they all served us very well. These are going back. Hope you don't wind up with one. In shopping for a replacement, ALL the sales people say that they are getting a lot of these phones back. They have a horrible reputation. I'm glad to read that some people are not having problems with theirs, though.
+ 
+ product/productId: B0002DFW2Q
+ product/title: LG C1300i Phone (AT&T)
+review/userId: A13FBUTM0DUIWX
+ review/profileName: Rob Price
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1055376000
+ review/summary: well worth it
+ review/text: I use a 2 line cordless phone throughout the house. Line 2 is the cell phone, courtesy of the extensis. Now, I can use my cell phone (via the extensis) throughout the house without losing a call due to poor cellphone reception.The only problem I have is that when I upgrade the phone, I can not get another extensis (since Andrew Corporation has stopped manufacturing these devices).
+ 
+ product/productId: B0002DFW3K
+ product/title: LG L1200 Phone (AT&T)
+review/userId: A1D4S2FX3KP5MQ
+ review/profileName: Ayla Gunc "Denny Crane"
+ review/helpfulness: 1/9
+ review/score: 3.0
+ review/time: 1089072000
+ review/summary: Static City
+ review/text: I get more static then you can imagine. People think I cause the static somehow. It is a great phone but the static that others get on the other end of the line is just terrible. I have a 10 day grace period and will return this phone first thing in the morning. LG must suck for phones. Nokia and Samsung are far superior to this static phone from hell.
+ 
+ product/productId: B0002DFW3K
+ product/title: LG L1200 Phone (AT&T)
+product/productId: B00095MRV6
+ product/title: Sony Ericsson DSS-25 Desk Stand
+ product/price: unknown
+ review/userId: A1U6175SAO9162
+ review/profileName: A. Duluc
+ review/helpfulness: 2/2
+ review/score: 3.0
+ review/time: 1178928000
+ review/summary: Good, but...
+ review/text: It does exactly what it says. you can browse and save your phone files (pictures, recorded sounds, Bluetooth acquired files) to your PC. You can also update the firmware with "Sony Ericsson Update Service". It can charge your phone but you need a charger connected to the dock for this.Now the bad part, it broke after just weeks of use and I didn't treat it harshly. It's just not working anymore and there's no sign of broken parts. Good while it lasted is all I can say. As with all electric devices, you can have better luck.
+product/productId: B000NGUTUW
+ product/title: EFORCITY Premium Clip-On Crystal Clear Case w/Belt Clip for Blackberry Pearl 8100, Clear
+ product/price: unknown
+ review/userId: AVAWQEINB4XSX
+ review/profileName: edman
+ review/helpfulness: 1/1
+ review/score: 2.0
+ review/time: 1199750400
+ review/summary: Protects for a few bucks, but you can find better
+ review/text: The case for this model looks great in the picture, but mine was scratched and looked bad after putting it on my phone. I originally wanted to preserve the stylish black of my new pearl, but this case did not do that for me. The clip on the back also broke after a few weeks time. Also, dust will definitely get between the clip and your phone if keep it in your pocket.EforceCity offered to replace the product or provide me a refund if I changed the review, but this product was only a few bucks so I'd rather post an honest review of the product and deal with the faults of this product.This thing is still on my phone after 4 months, but only because I am prone to dropping it when I go out.Spend money on a better case or a scratch resistant clear adhesive for the display of your phone (which I also purchased).
+review/score: 4.0
+ review/time: 1186531200
+ review/summary: dont take it off often
+ review/text: after the second time i took off the cover to clean the phone the case broke
+ 
+ product/productId: B000NGUTUW
+ product/title: EFORCITY Premium Clip-On Crystal Clear Case w/Belt Clip for Blackberry Pearl 8100, Clear
+ product/price: unknown
+ review/userId: A1MKVGGZ5SIRR3
+ review/profileName: Kevin Qin
+
+ product/productId: B000OEMIZW
+ product/title: BlackBerry 8800 C-X2 Battery for 8800, 8820, and 8830
+ product/price: 4.99
+ review/userId: A1SOWR6O1F3ZKD
+ review/profileName: Michelle Miller "Michelle"
+ review/helpfulness: 0/0
+ review/score: 3.0
+ review/time: 1276992000
+ review/summary: Battery is fine, but shipping took a long time!
+
+ product/productId: B000OEMIZM
+ product/title: BlackBerry 8300/8700/8800 Series Leather Desktop Stand for 8300, 8310, 8320, 8330, 8700, and 8800
+ product/price: unknown
+ review/userId: A1FUVSOPHXLZF5
+ review/profileName: Consigliere "&#34;Everyone should believe in ...
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1236816000
+ review/summary: Great little desktop stand
+review/userId: A1NPAH4Y3XES6D
+ review/profileName: Olduwan
+ review/helpfulness: 1/1
+ review/score: 5.0
+ review/time: 1188259200
+ review/summary: Brighthand Review of Palm Treo 750 / 755p Desktop Cradle (With AC Wall Adapter) , Black
+ review/text: Not everything that I do with my mobile device is with the device in between my thumbs. A good amount of time I am in front of a computer but accessing some of the programs on my mobile for a quick reference. It is then that the JAVOedge Cradle for the Treo 680/750 comes in handy.In addition to just propping up the Treo so that I can see when a call comes in, just being able to sync my mobile easily is a lifesaver.The angle of the JAVOedge cradle is good enough to almost be a second working screen. The other thing that makes the cradle nice to work with is just sitting my mobiles off to side but within earshot of an alarm.Of course, the blue light on the cradle is a bit intense, but overall, its a simple and elegant accessory in those times when I am on the go in terms of letting me know my device is being topped of for the next mobile run.And even if you don't ever take this cradle out of your house, it is a better option than just the cables your Treo came with.
+ 
+ product/productId: B000NWU3VG
+ product/title: Palm Treo 750 / 755p Desktop Cradle (With AC Wall Adapter) , Black
+product/productId: B000BKY604
+ product/title: Premium Horizontal Leather Pouch for PalmOne Treo 650, 600, 700, BlackBerry 7100
+ product/price: 2.99
+ review/userId: A2FMT3GOO7FLCW
+ review/profileName: Edward J. Metzler "RealTall"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1179360000
+ review/summary: Solid pouch for my Treo wx
+ review/text: This is the best phone pouch that I have owned.
+product/productId: B000302MKI
+ product/title: Replacement Lithium-ion Battery for Motorola V323/V325
+ product/price: unknown
+ review/userId: A3U7YH3VIHAUEA
+ review/profileName: ridgerunner
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1292284800
+ review/summary: Great product.
+ review/text: Great product for a great price which delivered great power to my phone. Never had a problem as long as I owned this phone (2 1/2 years).
+
+ product/productId: B000246XQE
+ product/title: Jabra FreeSpeak BT250 Bluetooth Headset
+ product/price: unknown
+ review/userId: A1CYTBE7LLUQ8F
+ review/profileName: Living in Budapest "livinginhungary"
+ review/helpfulness: 5/5
+ review/score: 4.0
+ review/time: 1092614400
+ review/summary: Great Addition to my Bluetooth Phone
+
+ product/productId: B000CFLNT0
+ product/title: BoxWave mini Capacitive Stylus for Apple iPad, iPad 2, and Amazon Kindle Fire (Metallic Silver)
+ product/price: 7.80
+ review/userId: A2V7EO331SFUF6
+ review/profileName: D. B. Spalding
+ review/helpfulness: 1/1
+ review/score: 4.0
+ review/time: 1325289600
+ review/summary: Good on-the-go stylus, terrific tip, but I don't recommend using it for extended periods
+review/userId: A30G7IAHAPDK1T
+ review/profileName: Anthony Castillo "Anthony"
+ review/helpfulness: 1/2
+ review/score: 2.0
+ review/time: 1198800000
+ review/summary: How can a phone not have an ear bud jack??
+ review/text: The phone itself is pretty good, feels comfy in the hand and the bottons protrude and "click" so it gives nice tactile feedback, something missing from almost every phone on the markey. So you know what you're pressing at all times, almost no texting errors.However, two flaws, and one of them is MAJOR.1. How can a phone not have an input for an earbud? This is absolutely unacceptable, and I've never seen a phone in the last 6-7 years not have a simple ear bud jack, ridiculous! This is the sole reason I returned mine, as I do not care for Bluetooth, I prefer simple corded earbuds as they are cheap to replace if lost.2. Another pretty serious flaw is the battery. It is rated at 3 hours, but that is pushing it.Overall this could have been a great phone, but two pretty stupid, unthinkable mistakes like not including a basic earbud jack ruins it.
+ 
+ product/productId: B000KIF87W
+ product/title: UNLOCKED MOTOROLA V191 QUAD BAND GSM CELL PHONE
+product/productId: B000BK1QSE
+ product/title: Plantronics Pulsar 590A Bluetooth Headset and Analog Adapter
+ product/price: unknown
+ review/userId: A222FKU8D2OCDF
+ review/profileName: Pawel "Pawel"
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1198368000
+ review/summary: excelent headphones
+ review/text: Very good quality sound.Works with cell phone from the first time.Excelent range.The analog dongle is a great add-on, range up to 80m.
+
+ product/productId: B000F2N5Q4
+ product/title: Krusell Classic Multidatp case for Blackberry 7130e- Black
+ product/price: 7.99
+ review/userId: A3GHBRF3UY6FTO
+ review/profileName: J. Slate "sales guy"
+ review/helpfulness: 0/0
+ review/score: 3.0
+ review/time: 1151539200
+ review/summary: Not bad!
+product/productId: B0000AKAIL
+ product/title: Nokia Over the Ear Boom Headset - HDB-5
+ product/price: 7.53
+ review/userId: ACGWROV5D1ENE
+ review/profileName: sherrie cozad "mem"
+ review/helpfulness: 0/0
+ review/score: 4.0
+ review/time: 1225324800
+ review/summary: I can hear!!
+ review/text: My husband drives a noisy diesel tanker truck at his work. We were having trouble hearing each other on our phones, This ear piece works well in noisy situations. and he is hands free, as wa state reqiures.
+
+ product/productId: B0000AKAIL
+ product/title: Nokia Over the Ear Boom Headset - HDB-5
+ product/price: 7.53
+ review/userId: A2VMQ6QGPQ4TFM
+ review/profileName: J. Grant
+ review/helpfulness: 1/1
+ review/score: 1.0
+ review/time: 1245801600
+ review/summary: Not as described!
+product/productId: B0000AKAMD
+ product/title: Sony Ericsson CST-13 Travel Charger for Sony Ericsson Phones
+ product/price: 4.43
+ review/userId: A3Q14BF5VXVW3S
+ review/profileName: Christie M. Daniel
+ review/helpfulness: 0/0
+ review/score: 4.0
+ review/time: 1192579200
+ review/summary: Fine product
+ review/text: The phone charger works great. I am pleased with the item. The only thing that would have made it better is is the electrical plug folded making the item easier to transport during travel.
+
+ product/productId: B0000AKAMD
+ product/title: Sony Ericsson CST-13 Travel Charger for Sony Ericsson Phones
+ product/price: 4.43
+ review/userId: AGFBG1RJF18ID
+ review/profileName: Clerance Martin
+ review/helpfulness: 1/10
+ review/score: 5.0
+ review/time: 1133136000
+ review/summary: The Kids Love It.
+review/userId: A3UX4YSKV7QUB0
+ review/profileName: Thurston
+ review/helpfulness: 4/4
+ review/score: 1.0
+ review/time: 1214179200
+ review/summary: Complete piece of garbage
+ review/text: Only let AT & T give you this phone if:--you would rather not be bothered by irritating calls--you prefer to charge your phone every single day--you prefer to receive messages and texts several hours after they are sent.--you like having really small buttons, making texting difficult--you would rather not have information from voice mails available on screen--you have to actually listen to the voice mail just to find out who called!!!That's right, this is the cell phone that while fully charged sends calls right to voice mail while turned on, then informs you of a missed call hours later. I have had two of them and am battling AT & T to get something else. The worst thing is that, despite its obvious flaws, if you are a light user you don't realize the missed calls thing is the a phone issue until you've had it for a while.Additionally, changing the volume on the speaker is a challenge--you can only do it while a call is in session and it is a very small button on the side of the phone--no setting on disk; you cannot see incoming caller id without opening the phone; the battery life is pathetically short; and the camera is utterly worthless.This phone would have been a stellar performer in, say, 1985. Now it just sucks, out loud.
+ 
+ product/productId: B000O7RYH6
+ product/title: Sony Ericsson Z310a Unlocked Cell Phone--U.S. Version with Warranty (Jetset Black)
+
+ product/productId: B000O7RYH6
+ product/title: Sony Ericsson Z310a Unlocked Cell Phone--U.S. Version with Warranty (Jetset Black)
+ product/price: 39.95
+ review/userId: A2G75S57TJXXG7
+ review/profileName: L. Schopf
+ review/helpfulness: 0/0
+ review/score: 5.0
+ review/time: 1346198400
+ review/summary: i love this phone
+review/userId: A1R0TIHVINU4I2
+ review/profileName: Walter Hettiger
+ review/helpfulness: 2/4
+ review/score: 5.0
+ review/time: 1196726400
+ review/summary: MOTO Store Discount
+ review/text: Use this code at the online Motorola store to save 15% off most items. Here is the code : PASS_12870. Link to the Moto Store : http://www.store.motorola.com/Thanks, Aaron
+ 
+ product/productId: B000MSBUZO
+ product/title: Motorola RAZR V3xx GSM 3G Used Cell Phone AT&T
+product/productId: B000MSBUZO
+ product/title: Motorola RAZR V3xx GSM 3G Used Cell Phone AT&T
+ product/price: unknown
+ review/userId: A1YTLR39569UP7
+ review/profileName: Jimmy Chacko
+ review/helpfulness: 2/16
+ review/score: 3.0
+ review/time: 1182038400
+ review/summary: the speaker phone is not that great...
+ review/text: The phone's case on the back did not close properly...
+review/userId: ADXSCAFJO1ADU
+ review/profileName: T. Young
+ review/helpfulness: 8/11
+ review/score: 1.0
+ review/time: 1189728000
+ review/summary: Poor quality, pooer service
+ review/text: The phone is neat and comes with a lot of great features, but buyer beware-the warranty is basically non-existant. We had a problem with the keyboard and called for warranty service and they said that the warranty is invalid if there is any water damage. We explained that there was no water damage, it just stopped working. They asked us to check a "dot" sensor on the phone. If the dot is red, the warranty is invalid. We asked how the dot could be red when the phone (2 months old) never got wet, and their rep told us that rain, sweat or being exposed to humidity or condensation! An unscientific survy of razr uses at a soccer game found 4 of 5 with the dot turned red-and hense no warranty.So bottom line is, it is a good phone, as long as you don't sweat or live in a location where it rains or gets humid.
+ 
+ product/productId: B000MSBUZO
+ product/title: Motorola RAZR V3xx GSM 3G Used Cell Phone AT&T
+product/productId: B000MSBUZO
+ product/title: Motorola RAZR V3xx GSM 3G Used Cell Phone AT&T
+ product/price: unknown
+ review/userId: AEY33FJ17F4U1
+ review/profileName: Ashwin Shrinivas
+ review/helpfulness: 7/10
+ review/score: 3.0
+ review/time: 1181520000
+ review/summary: Cool design with some "need to get used to" features
+ review/text: I definitely like the phone for it's slender design and features. the only thing that gets me is getting used to actually using the phone. trying to make sense of call history, or to quickly access some of your items can be trying for someone who is not as tech savvy with cell phones. i enjoy the phone and it does what it supposed to do very well... make and receive calls!clear audio quality, no dropped calls so far and a HUGE screen to see things. after reading the guide and sitting down with the phone for an hour or two and re-programming it,... it's a lot more user-friendly. it's as good as any other phone for text msgs.good battery life and if looking for accessories, definitely look for a snug holster to avoid this phone from feeling loose in its case. You can also find good accessories at Radioshack.
+review/userId: A1FRK74TBMKNZV
+ review/profileName: SnooRay
+ review/helpfulness: 16/17
+ review/score: 4.0
+ review/time: 1179964800
+ review/summary: easy to use even for me
+ review/text: I upgraded an old phone to a Sync just three days ago; at the same time, my son got a Razr v3xx. In comparing the two phones, several things about the Razr prompted me to go back and exchange the Sync.The Razr keeps a subdued clock on the outside screen at all times; the Sync does not.The Razr is much easier to open with one hand.The Razr has voice-dial; the Sync does not.The Razr seems to have a cleaner sound for calls.The Razr is simply easier for me - an almost 40-something with no technical skills - to figure out. The screen icons are cleaner and the menus are more intuitive. I had the Sync for three days and still could not figure out half the stuff I wanted to. I've had the Razr for 3 hours and have already set it up the way I want it, including locking myself out of those expensive Media Net buttons. There's even a way to lock the AT&T; Music feature, but keep the ability to use the music player, which is in that menu, by making the music player one of the Navigation keys.Plus, the Razr is just prettier!The only thing I can think of that I don't like about the Razr is that the speaker does not sound very crisp at all. If you listen to music, I recommend headphones.Update June 2011 - I'm still using this phone, and it's still awesome. It never quits. My son has the same phone (he's now 17) and neither of us are easy on phones. It's simple, intuitive, light, and the battery life is still days long (we've never replaced the batteries.) If mine ever dies, it'll be a tough decision whether to upgrade to an iphone or just get another Razr...
+ 
+ product/productId: B000MSBUZO
+ product/title: Motorola RAZR V3xx GSM 3G Used Cell Phone AT&T
+review/userId: AZTYYREBZLHUY
+ review/profileName: Melody Smith
+ review/helpfulness: 0/0
+ review/score: 1.0
+ review/time: 1222300800
+ review/summary: Poor signal/daily charging
+ review/text: This is a great little phone EXCEPT for the fact that it drops calls left and right (it's not the service......my husband and friend have the same as I have with no problems) and you have to charge it constantly!
+ 
+ product/productId: B000O7RYSA
+ product/title: Sony Ericsson Z310a Pink Phone (Unlocked)
+product/productId: B00004W64Y
+ product/title: Nokia 900 mAh NiMH Extended Vibrating Battery for Nokia Phones
+ product/price: unknown
+ review/userId: A2GN1RM136VMHE
+ review/profileName: Maggie
+ review/helpfulness: 4/8
+ review/score: 5.0
+ review/time: 1006732800
+ review/summary: Great!
+ review/text: As soon as I started using the vibrating battery, I was happy because you know how embarassing it is when your cell phone rings during a class... anyway, I saw nokia batteries like this selling for like 70 bucks on other websites, so i'm happy I found it cheaper. happy happy happy!
+
+ product/productId: B00004W64Y
+ product/title: Nokia 900 mAh NiMH Extended Vibrating Battery for Nokia Phones
+ product/price: unknown
+ review/userId: unknown
+ review/profileName: unknown
+ review/helpfulness: 13/13
+ review/score: 3.0
+ review/time: 995846400
+ review/summary: Bulky
