@@ -1,5 +1,6 @@
 # amazon_database_analysis
-This analysis consists of 3 notebooks **in the master branch **(all other files are datasets as well as some files created in process). 
+This analysis consists of 3 notebooks **in the master branch**
+(all other files are datasets as well as some files created in process). 
 
 **Notebook 1 - statistics.ipynb**
 This notebooks contains some general statistic on the dataset withouth the use of ML. Some results: 
